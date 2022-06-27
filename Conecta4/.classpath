@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="lanterna 3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juan_/Desktop/Programacion/lanterna 3.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
